@@ -1,2 +1,2 @@
-# Introduction-to-multimedia-work
-Collection of multimedia work, including a website, javascript animations and lab work. From years 19/20
+# Introduction-to-multimedia-Assignment
+Multimedia module assingment, with a website made using html,css and javascript. Year 19/20
